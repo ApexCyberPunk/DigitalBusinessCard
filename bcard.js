@@ -1,10 +1,19 @@
 
 
+// grab the elements we are going to work with the make card interactive
 
 
+const jobTitle = document.querySelector('.jobTitle')
+const container = document.querySelector('.container')
+const contact = document.querySelector('.contact')
+const email = document.querySelector('.email')
+const skillSet = document.querySelector('.skillSet')
+const social = document.querySelector('.social')
+const backList = document.querySelector('.backList')
+const skillTitle = document.querySelector('.skillTitle')
 
-
-
+// button DOM
+const flipCard = document.querySelector('.flipCard')
 
 
 
