@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: blue;
+    background-color: black;
+}
+.container {
+    border: solid 10px blue;
+    width: auto;
+}
+.contact {
+    display: none;
+}
+.email {
+    display: none;
+}
+.social {
+    display: none;
+}
+
+.backCard {
+    display: none;
+}
+
+.flipCard {
+    background-color: blue;
+    color: white;
+    padding: 15px 15px;
+    border-radius: 20px;
+    font-size: 1.5em;
+}
+
+/* put below in grid */
+/* .skillSet */
+/* .jobTitle */
+/* .name */
+/* .skillTitle */
